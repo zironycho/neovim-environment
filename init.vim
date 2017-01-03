@@ -37,12 +37,6 @@ Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'itchyny/lightline.vim'
 Plug 'airblade/vim-gitgutter'
 "Plug 'vim-scripts/hypergit.vim'
-"
-Plug 'LucHermitte/lh-vim-lib'
-Plug 'LucHermitte/lh-tags'
-Plug 'LucHermitte/lh-dev'
-Plug 'LucHermitte/lh-brackets'
-Plug 'LucHermitte/vim-refactor'
 
 " Initialize plugin system
 call plug#end()
